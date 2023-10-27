@@ -1,11 +1,10 @@
-import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import ToDoList from './ToDoList';
+import ToDoListCopy from './ToDoListCopy';
 
 function App() {
   return (
-    <ToDoList />
+    <ToDoList/>
   );
 }
 
